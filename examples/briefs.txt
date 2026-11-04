@@ -1,0 +1,11 @@
+# Exemplos de uso (o mesmo motor, assuntos diferentes)
+
+python main.py "Explique como funciona uma API REST para quem nunca programou" --style blueprint --structure explainer --seconds 40
+
+python main.py "App de academia que monta o treino do dia em 1 toque" --brand FitNow --url fitnow.app --style ui --structure aida
+
+python main.py "5 dicas para dormir melhor" --style kinetic --structure list --format 9:16
+
+python main.py "A história de uma padeira que trocou o caderno de fiado por um app" --style paper --structure story
+
+python main.py --plan examples/plan_backup.json --no-tts

@@ -1,0 +1,15 @@
+{
+  "title": "Backup sem susto",
+  "style": "flat",
+  "structure": "pas",
+  "scenes": [
+    {"id": "gancho", "beat": "problem", "narration": "Você já perdeu um arquivo importante e não tinha cópia?",
+     "headline": "Perdeu tudo de novo?", "sub": "",
+     "visual": "A folder card shakes, then its three file cards fall out and drop off screen on the word 'perdeu'."},
+    {"id": "solucao", "beat": "solution", "narration": "Com o Cofre, cada arquivo é copiado sozinho, a cada hora.",
+     "headline": "Cópia automática, a cada hora.", "sub": "",
+     "visual": "A big circle (the vault) grows; three small file dots fly into it on 'copiado'; a ring grows around it."},
+    {"id": "fim", "beat": "close", "narration": "Cofre. Teste grátis em cofre ponto com.",
+     "headline": "Cofre", "sub": "cofre.com", "visual": "End card with the name and URL."}
+  ]
+}
